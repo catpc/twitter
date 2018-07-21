@@ -1,0 +1,26 @@
+<a class="MomentCard TwitterCard-container TwitterCard-container--clickable TwitterCardsGrid-col--12 TwitterCardsGrid-noColSpacing u-block js-openLink " href="https://t.co/XmXOuspnm4" rel="noopener" data-card-breakpoints="w500 w450 w400 w350 w300 w250 w200 w150 w100 w50 ">
+    <div class="MomentCard-cover TwitterCardsGrid-col--5">
+      <div class="tcu-imageContainer tcu-imageAspect--3to4">
+  <div class="tcu-imageWrapper" style="opacity: 1; background-image: url(&quot;https://pbs.twimg.com/media/DZFDslCVMAACjLI.jpg&quot;); background-size: cover;" data-style="background-image: url(https://pbs.twimg.com/media/DZFDslCVMAACjLI.jpg); background-size: cover;">
+    <img class="u-block" data-src="https://pbs.twimg.com/media/DZFDslCVMAACjLI.jpg" alt="Embedded image permalink" src="https://pbs.twimg.com/media/DZFDslCVMAACjLI.jpg">
+  </div>
+</div>
+
+    </div>
+    <div class="MomentCard-contentContainer TwitterCardsGrid-col--7">
+      <div class="MomentCard-content">
+        <div class="MomentCard-title tcu-dir" dir="ltr">
+          <h2 class="TwitterCard-title js-cardClick tcu-textEllipse--multiline" dir="ltr">Scenes from the March For Our Lives rallies</h2>
+
+        </div>
+        <div class="MomentCard-subtitle">
+            <div class="MomentCard-category tcu-dir" dir="ltr">Social action</div>
+        </div>
+        <div class="MomentCard-description tcu-dir" dir="ltr">
+          <p class="tcu-resetMargin u-block TwitterCardsGrid-col--spacerTop tcu-textEllipse--multiline" dir="ltr">Across the United States and around the world, thousands marched in rallies in a call for sweeping changes to gun laws. The main event, led by survivors of the Marjory Stoneman Douglas High School...</p>
+
+        </div>
+        <div class="MomentCard-badge">
+          <span class="MomentCard-iconLightning"></span><span class="MomentCard-badgeText">Moments</span>
+        </div>
+      </div>
